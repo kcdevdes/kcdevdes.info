@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
+      "title": "Test1",
+      "date": "2000/09/25",
+      "description": "nothing to describe"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
+      "title": "Test1",
+      "date": "2000/09/25",
+      "description": "nothing to describe"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
+      "title": "Test1",
+      "date": "2000/09/25",
+      "description": "nothing to describe"
+    }
+  ]
+}
