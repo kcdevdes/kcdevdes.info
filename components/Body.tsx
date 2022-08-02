@@ -1,5 +1,7 @@
+import { Box } from '@chakra-ui/react';
+
 const Body: React.FC<any> = ({ children }) => {
-  return <div>{children}</div>;
+  return <Box>{children}</Box>;
 };
 
 export default Body;
