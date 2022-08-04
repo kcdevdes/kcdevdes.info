@@ -2,24 +2,17 @@
   "projects": [
     {
       "id": 1,
-      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
-      "title": "Test1",
-      "date": "2000/09/25",
-      "description": "nothing to describe"
+      "img": "https://preview.redd.it/o8smnmp6erp21.png?width=486&format=png&auto=webp&s=c12d21cff57dd954616fc7e0e60cfb52711e8089",
+      "title": "LinkVRC",
+      "date": "2022",
+      "description": "*Development in progress* A web application for VRChat players to search for friends' information easily."
     },
     {
       "id": 2,
       "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
-      "title": "Test1",
-      "date": "2000/09/25",
-      "description": "nothing to describe"
-    },
-    {
-      "id": 3,
-      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
-      "title": "Test1",
-      "date": "2000/09/25",
-      "description": "nothing to describe"
+      "title": "What's Next?",
+      "date": "2022",
+      "description": "I keep on making various things!"
     }
   ]
 }

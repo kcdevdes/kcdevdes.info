@@ -13,7 +13,7 @@ const Navbar = () => {
   const { colorMode, toggleColorMode } = useColorMode();
   return (
     <div>
-      <Box bg={useColorModeValue('cyan.100', 'cyan.800')} px={12}>
+      <Box bg={useColorModeValue('#d6e9ff', '#5896e0')} px={12}>
         <Flex h={16} alignItems={'center'} justifyContent={'space-between'}>
           <Box>
             <Heading

@@ -31,7 +31,7 @@ const Projects = () => {
                           textDecoration="none"
                           _hover={{ textDecoration: 'none' }}
                         >
-                          <Image src={project.img} alt="some text" />
+                          <Image src={project.img} alt="proj img" />
                         </Link>
                       </Box>
                       <Heading fontSize="xl" marginTop="2">

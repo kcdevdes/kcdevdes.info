@@ -12,7 +12,7 @@ const Hero = () => {
         >
           <Heading
             fontWeight={600}
-            fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
+            fontSize={{ base: '2xl', sm: '4xl', md: '5xl' }}
             lineHeight={'110%'}
           >
             Hi! I am Kevin Choi!
