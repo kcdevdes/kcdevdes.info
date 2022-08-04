@@ -1,18 +1,26 @@
-import { Box, Button, ButtonGroup, Flex, Stack, Link } from '@chakra-ui/react';
+import {
+  Box,
+  Button,
+  ButtonGroup,
+  Flex,
+  Stack,
+  Link,
+  Center,
+} from '@chakra-ui/react';
 import { FaInstagram, FaGithub, FaBlog, FaMailBulk } from 'react-icons/fa';
 
 const Contact = () => {
   return (
     <div>
       <Box width="100" marginTop={10}>
-        <Flex
-          justifyContent={'center'}
+        <Center
           flexDirection={{ base: 'column', sm: 'column', md: 'row', lg: 'row' }}
         >
           <Link href="https://github.com/kcdevdes">
             <Button
               marginX={'4'}
               marginY={'2'}
+              width={'100'}
               rounded={'full'}
               px={6}
               bg={'gray.700'}
@@ -66,7 +74,7 @@ const Contact = () => {
               Gmail
             </Button>
           </Link>
-        </Flex>
+        </Center>
       </Box>
     </div>
   );
