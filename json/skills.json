@@ -4,19 +4,19 @@
       "id": 1,
       "skillName": "React.js",
       "skillLink": "https://reactjs.org/",
-      "description": "The portfolio you are watching is also created with Next.js, a library based on React.js, and Typescript. I have created a lot of Web applications with its high productivity"
+      "description": "The portfolio you are watching is also created with Next.js, a library based on React.js, and Typescript. I have created a lot of React applications."
     },
     {
       "id": 2,
       "skillName": "Node.js",
       "skillLink": "https://nodejs.org/en/about/",
-      "description": "Javascript is probably the most wide programming language in the world. I usually use Node.js, Express to create my Back-end applications."
+      "description": "Javascript is probably one of the most flexible programming languages in the world. I usually use Node.js, Express to create my Back-end applications."
     },
     {
       "id": 3,
       "skillName": "Android",
       "skillLink": "https://developer.android.com/",
-      "description": "I believe that a smartphone is one of the most valuable devices created in 21th century that allows programmers to create their idea in real. I started coding with Galaxy S II when I was younger and have been creating various Android applications with Java, Kotlin since then."
+      "description": "I believe that a smartphone is the most valuable device invented in 21th century that allows programmers to create their ideas in real. I started coding with Galaxy S II when I was younger and have been creating various Android applications with Java, Kotlin since then."
     },
     {
       "id": 4,
