@@ -1,6 +1,8 @@
 import { Box, Heading, Container, Text, Stack, Flex } from '@chakra-ui/react';
+import useStore from './store/store';
 
 const Hero = () => {
+  const { selectedLanguage, setLanguage } = useStore();
   return (
     <div>
       <Container maxW={'6xl'}>
@@ -15,7 +17,7 @@ const Hero = () => {
             fontSize={{ base: '2xl', sm: '4xl', md: '5xl' }}
             lineHeight={'110%'}
           >
-            Hi! I am Kevin Choi!
+            Hi!, I am Kevin Choi!
           </Heading>
           <Text
             color={'cyan.600'}

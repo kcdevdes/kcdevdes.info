@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "skillLink": "https://reactjs.org/",
+      "description": "지금 보시는 포트폴리오 또한 React를 기반으로 한 Next.js, 디자인 라이브러리인 Chakra UI, 그리고 Typescript로 제작되었어요. 계속해서 새로운 앱들을 React로 만들고 있어요."
+    },
+    {
+      "id": 2,
+      "skillName": "Node.js",
+      "skillLink": "https://nodejs.org/en/about/",
+      "description": "JavaScript는 아마 가장 유연한 프로그래밍 언어 중 하나가 아닐까 싶어요. 전 주로 벡엔드 애플리케이션을 만들 때 Node.js, Express를 사용합니다."
+    },
+    {
+      "id": 3,
+      "skillName": "Android",
+      "skillLink": "https://developer.android.com/",
+      "description": "스마트폰은 분명 21세기 가장 가치있는 발명품 중 하나라고 생각해요. 많은 프로그래머들이 스마트폰을 사용해 세상에 그들만의 아이디어를 현실로 만들었으니 말이죠. 전 갤럭시S2로 처음 프로그래밍을 시작하고 지금까지 계속 안드로이드 프로그래밍을 도전하고 있답니다."
+    },
+    {
+      "id": 4,
+      "skillName": "iOS",
+      "skillLink": "https://developer.apple.com/ios/",
+      "description": "별로 잘하진 않습니다. 계속 배우고 있어요."
+    }
+  ]
+}

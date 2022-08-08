@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "img": "https://preview.redd.it/o8smnmp6erp21.png?width=486&format=png&auto=webp&s=c12d21cff57dd954616fc7e0e60cfb52711e8089",
+      "title": "LinkVRC",
+      "date": "2022",
+      "description": "[뚝딱뚝딱 개발 중]VRChat 유저들이 쉽고 간편하게 친구들의 정보를 검색할 수 있도록 도우는 웹 애플리케이션이에요."
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/koehlersimon/fallback/master/Resources/Public/Images/placeholder.jpg",
+      "title": "뭐가 나올까요?",
+      "date": "2022",
+      "description": "저는 계속 새로운 것들을 만들려고 노력해요~!"
+    }
+  ]
+}

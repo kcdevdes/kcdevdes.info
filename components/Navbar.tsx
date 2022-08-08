@@ -7,9 +7,18 @@ import {
   Heading,
 } from '@chakra-ui/react';
 import { MoonIcon, SunIcon } from '@chakra-ui/icons';
+import useStore from './store/store';
 
 const Navbar = () => {
   const { colorMode, toggleColorMode } = useColorMode();
+  const { selectedLanguage, setLanguage } = useStore();
+
+  const handleLanguage = () => {
+    if (selectedLanguage == 'ENG') setLanguage('KOR');
+    else if (selectedLanguage == 'KOR') setLanguage('ENG');
+    // more languages
+  };
+
   return (
     <div>
       <Box bg={useColorModeValue('#d6e9ff', '#5896e0')} px={12}>
@@ -22,9 +31,12 @@ const Navbar = () => {
               Kevin Choi
             </Heading>
           </Box>
-          <Button onClick={toggleColorMode}>
-            {colorMode === 'light' ? <MoonIcon /> : <SunIcon />}
-          </Button>
+          <Box>
+            <Button onClick={toggleColorMode} marginRight={6}>
+              {colorMode === 'light' ? <MoonIcon /> : <SunIcon />}
+            </Button>
+            <Button onClick={handleLanguage}>{selectedLanguage}</Button>
+          </Box>
         </Flex>
       </Box>
     </div>
